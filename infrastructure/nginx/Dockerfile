@@ -1,4 +1,4 @@
-FROM nginx:1.18-alpine
+FROM nginx:1.26.3-alpine
 
 ENV TZ=UTC
 
